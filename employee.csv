@@ -1,0 +1,6 @@
+Name,Age,Salary,Gender,Department
+Alice,25,50000,Female,HR
+Bob,30,60000,Male,IT
+Charlie,,70000,Male,IT
+David,35,80000,Male,Sales
+Eve,28,,Female,HR

@@ -1,0 +1,5 @@
+Name,Gender,PG,Marks,Age
+A,M,Yes,50.0,20
+B,F,No,60.0,21
+C,M,Yes,40.0,22
+D,F,No,,23
